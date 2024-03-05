@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/VRMap.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Cube.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MI_Grid_Default.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SkySphereMesh.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MaterialInstanceDynamic_0.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/CameraMesh.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MatineeCam_mat.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/FbxScene_VRMap.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Modern_Sofa_1.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MI_Modern_Sofa_1.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Modern_Sofa_2.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MI_Modern_Sofa_2.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Coffee_Table.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Coffee_Table.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Modern_Armchair.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MI_Modern_Armchair.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MI_Modern_Armchair_Pillows.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Picture.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Picture_frame.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Picture.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Bed_Lamp_1.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Modern_Chair_1.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/MI_Modern_Chair_1.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Modern_Table.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Modern_Table_bottom.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Chrome.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Modern_Table_top.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Bed_Lamp_1.uasset"
+			]
+		}
+	]
+}
