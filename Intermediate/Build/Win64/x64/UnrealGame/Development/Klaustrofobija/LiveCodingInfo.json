@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Klaustrofobija.cpp.obj": [
+			"Klaustrofobija.cpp.obj"
+		]
+	}
+}

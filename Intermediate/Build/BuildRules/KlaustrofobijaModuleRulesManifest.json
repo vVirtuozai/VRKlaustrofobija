@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Erikas\\Documents\\GitHub\\VRKlaustrofobija\\Intermediate\\Source\\Klaustrofobija.Build.cs",
+		"C:\\Users\\Erikas\\Documents\\GitHub\\VRKlaustrofobija\\Intermediate\\Source\\Klaustrofobija.Target.cs",
+		"C:\\Users\\Erikas\\Documents\\GitHub\\VRKlaustrofobija\\Intermediate\\Source\\KlaustrofobijaClient.Target.cs",
+		"C:\\Users\\Erikas\\Documents\\GitHub\\VRKlaustrofobija\\Intermediate\\Source\\KlaustrofobijaEditor.Target.cs",
+		"C:\\Users\\Erikas\\Documents\\GitHub\\VRKlaustrofobija\\Intermediate\\Source\\KlaustrofobijaServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

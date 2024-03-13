@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\erikas\\documents\\github\\vrklaustrofobija\\intermediate\\build\\win64\\x64\\unrealgame\\development\\klaustrofobija\\module.klaustrofobija.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\erikas\\documents\\github\\vrklaustrofobija\\intermediate\\build\\win64\\x64\\klaustrofobija\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\erikas\\documents\\github\\vrklaustrofobija\\intermediate\\build\\win64\\x64\\unrealgame\\development\\klaustrofobija\\definitions.klaustrofobija.h",
+            "c:\\users\\erikas\\documents\\github\\vrklaustrofobija\\intermediate\\source\\klaustrofobija.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
