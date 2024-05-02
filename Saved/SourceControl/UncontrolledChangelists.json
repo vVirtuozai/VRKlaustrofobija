@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/StarterContent/Materials/M_Wood_OakFloor.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Floor1to2.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/VRTemplate/Audio/ElevatorDing.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/DoorOpen.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/DoorClose.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/DoorOpen1.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Floor2to3.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Floor3to4.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Floor4to5.uasset",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Levels/Infinite.umap",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Levels/InfiniteReal.umap",
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/Levels/InfiniteReal_BuiltData.uasset",
 				"C:/Users/terra/OneDrive/Documents/Unreal Projects/New folder (2)/VRKlaustrofobija/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/terra/OneDrive/Documents/Unreal Projects/New folder (2)/VRKlaustrofobija/Content/FreeFurniturePack/Materials/M_Carpet.uasset",
 				"C:/Users/terra/OneDrive/Documents/Unreal Projects/New folder (2)/VRKlaustrofobija/Content/VRTemplate/Blueprints/VRPawn.uasset",
@@ -85,10 +101,7 @@
 				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Modern_Table_bottom.uasset",
 				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Chrome.uasset",
 				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/M_Modern_Table_top.uasset",
-				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Bed_Lamp_1.uasset",
-				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/StarterContent/Materials/M_Wood_OakFloor.uasset",
-				"C:/Users/terra/OneDrive/Documents/Unreal Projects/VRKlaustrofobija/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+				"C:/Users/terra/OneDrive/Documents/Unreal Projects/Klaustrofobija/Content/VRTemplate/SM_Bed_Lamp_1.uasset"
 			]
 		}
 	]
